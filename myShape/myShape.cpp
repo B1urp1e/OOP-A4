@@ -1,7 +1,17 @@
+/*
+*File           : myShape.cpp
+*				: for use with shape project
+*Project        : Shape
+*Programmer     : Colby Taylor
+*First version  : 2021-03-15
+*Description    : Create circle and square classes that inherit from Shape class
+*/
+
+
+//Header Files
 #include"Shape.h"
 #include"Square.h"
 #include"Circle.h"
-
 
 #include <stdio.h>
 #include <stdlib.h>
