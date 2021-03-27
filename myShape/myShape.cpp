@@ -68,6 +68,8 @@ int main(void)
 
 /*
 	Name	: getFloat
+			: Created By Sean Clarke. 
+			: Retrieved from eConestoga SampleMain.zip on 2021-03-20
 	Purpose : validate and return the value float value. 
 	Inputs	:	NONE
 	Outputs	:	NONE
@@ -95,6 +97,8 @@ float getFloat(void)
 
 /*
 	Name	: getString
+			: Created By Sean Clarke.
+			: Retrieved from eConestoga SampleMain.zip on 2021-03-20
 	Purpose : validate and set string to pointer address.
 	Inputs	:	NONE
 	Outputs	:	NONE
